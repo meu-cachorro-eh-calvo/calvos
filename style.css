@@ -1,0 +1,55 @@
+body {
+    text-align: center;
+  background-color: #FF5A5F; 
+  margin:0;
+
+}
+
+#amigos {
+background-image: linear-gradient(#087E8B,#C3FF00,#FF5A5F);
+padding-top:  50px;
+padding-bottom: 50px;
+}
+.imgTopo {
+    width:30%;
+    border-radius: 50%;
+}
+.line{
+  background-color:aquamarine;
+  width: 100px;
+  height: 6px;
+  margin: 5px auto 15px;
+}
+#calvice p{
+width: 70%;
+margin: auto;
+text-align: justify;
+font-size: 20px;
+}
+.titulo{
+  margin-bottom: 0;
+}
+
+#menu {
+background-color: #087E8B;
+margin: 0;
+list-style: none;
+top: 0;
+position: sticky;
+}
+
+.link {
+display: inline-block;
+padding: 10px;
+}
+
+.link a {
+color:#ffffff;
+font-size: 20px;
+text-decoration: none;
+padding: 10px;
+}
+.link a:hover {
+  background-color: #C3FF00;
+  color:black
+}
